@@ -18,6 +18,7 @@
     "@types/jest": "^27.0.2",
     "babel-loader": "^8.2.2",
     "clean-webpack-plugin": "^4.0.0",
+    "css-loader": "^6.5.1",
     "html-webpack-plugin": "^5.4.0",
     "jest": "^27.3.1",
     "mini-css-extract-plugin": "^2.4.2",
